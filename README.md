@@ -35,6 +35,16 @@
 
 ---
 
+## 📸 Screenshots | 截图
+
+### Main Interface | 主界面
+![Main Interface](assets/main_interface.png)
+
+### Interactive Editing | 交互式编辑
+![Interactive Editing](assets/interactive_editing.png)
+
+---
+
 ## English
 
 ### Overview
@@ -320,17 +330,6 @@ python main.py
 
 
 ---
-
-## 📸 Screenshots | 截图
-
-### Main Interface | 主界面
-![Main Interface](assets/main_interface.png)
-
-### Interactive Editing | 交互式编辑
-![Interactive Editing](assets/interactive_editing.png)
-
----
-
 ## 🛠️ Technical Details | 技术细节
 
 ### Architecture | 架构
@@ -346,7 +345,6 @@ python main.py
 - Gradio team for the excellent web interface framework
 
 ---
-
 <div align="center">
 
 **⭐ Star this repository if you find it helpful! | 如果您觉得有用，请给仓库点个星！**
