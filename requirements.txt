@@ -1,0 +1,20 @@
+# TAPNet Tracker Requirements
+# Core ML/DL frameworks
+jax
+flax
+jaxlib
+numpy
+torch
+
+# Computer Vision
+opencv-python
+pillow
+
+# Visualization
+matplotlib
+
+# Web Interface  
+gradio
+
+# Utilities
+einops
